@@ -6,6 +6,7 @@ export { default as Portfolio } from './Portfolio';
 export { default as Team } from './Team';
 export { default as Testimonials } from './Testimonials';
 export { default as Pricing } from './Pricing';
+export { default as RevenueCalculator } from './RevenueCalculator';
 export { default as FAQ } from './FAQ';
 export { default as Accolades } from './Accolades';
 export { default as CTA } from './CTA';

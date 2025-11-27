@@ -7,6 +7,7 @@ import {
   Team,
   Testimonials,
   Pricing,
+  RevenueCalculator,
   FAQ,
   Accolades,
   CTA,
@@ -24,6 +25,7 @@ export default function Home() {
         <Portfolio />
         <Team />
         <Testimonials />
+        <RevenueCalculator />
         <Pricing />
         <FAQ />
         <Accolades />
